@@ -1,0 +1,16 @@
+Super admin:-
+admin@laravel-admin.dev
+admin
+
+Club Manager
+malwinder2@yopmail.com
+admin123
+
+
+User login
+test@titan.com
+admin123
+
+
+
+

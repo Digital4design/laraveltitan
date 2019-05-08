@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Models/Traits/UserHelper.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Models/Document.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/accounts/clients/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/documents/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Admin/Documents/CategoriesController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Admin/Documents/DocumentsController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Website/Documents/DocumentsController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/clubs/club/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Admin/Club/ClubController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Admin/Accounts/AdministratorsController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/website/mydoc/mydoc.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Website/MydocController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/website/documents/documentable.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Models/DocumentCategory.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Models/Club.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/documents/documentable.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/accounts/clients/create_edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Website/Documents/CategoriesController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/Http/Controllers/Website/Account/ProfileController.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/admin/clubs/club/create_edit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/larablogg1/resources/views/website/documents/create_edit.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
