@@ -193,10 +193,7 @@
                         Activity, Notifications and more.</p>
                 </div>
                 <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="https://github.com/bpocallaghan/laravel-admin-starter">
-                        <i class="fa fa-github"></i>
-                        Read More on GitHub
-                    </a>
+   
                 </div>
             </div>
         </div>

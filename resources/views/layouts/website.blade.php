@@ -44,7 +44,7 @@
         @include('website.partials.navigation')
 
         @if(isset($showPageBanner) && $showPageBanner == true || !isset($showPageBanner))
-            @include('website.partials.banner')
+
         @endif
 
         <div class="container mb-5">
